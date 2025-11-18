@@ -57,6 +57,6 @@ https://app.fabric.microsoft.com/view?r=eyJrIjoiMTNlYTUyZDItZDQzYi00YzU0LWFlMjEt
 
 ## 📧 Contact
 For questions or collaboration:  
-**Esraa Kamal Abdallah Hageltoum**  
+**Esraa Kamal Abdallah**  
 📩 israakabdallah@outlook.com  
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) : www.linkedin.com/in/esraakamal
